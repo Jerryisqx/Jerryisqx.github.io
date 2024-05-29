@@ -21,7 +21,7 @@ repository               : "Jerryisqx/Jerryisqx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Qingxuan Chen"
   pronouns         : # example: "she/her"  
   bio              : "Master Student at University of Zurich | BSc at CUHK Shenzhen | Aritificial Intelligence enthusiast"
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : jerrychenqx
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
