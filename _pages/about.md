@@ -12,5 +12,3 @@ I am currently a Master student at University of Zurich major in Data Science an
 My previous research and study background are related with Medical Image Processing, 3D Vision, Natural Language Processing (Recommendation and Sentiment Analysis) and LLM Chatbot.
 
 I'm currently looking for potential opportunities for Student Project/Research Assistant/Internship positions related with LLM/VLM study. Please contact through email if you are interested!
-
-===========
