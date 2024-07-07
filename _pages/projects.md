@@ -20,6 +20,10 @@ We adapt existing 3D scene undertanding models to analyze city-scale datasets, f
 [Report](/files/OpenCity_Final_Report.pdf)
 
 
+
+
+
+
 # Past Projects
 These are the projects that I've finished:
 
@@ -35,6 +39,8 @@ In this project, we implemented a conversational agent that can hold conversatio
 
 [Report](/files/ATAI-final-report.pdf)
 
+---
+
 ## MRI Image Analysis
 
 **Qingxuan Chen** 
@@ -46,6 +52,8 @@ _research assistant work at TsingHua Berkeley Shenzhen Institute, advisor: Yang 
 In this project, I build up a multi-task learning baseline for MRI segmentation with biased field correction preprocessing.
 
 [Report](/files/MRI_final_report.pptx)
+
+---
 
 ## IMDB Sentiment Analysis
 
