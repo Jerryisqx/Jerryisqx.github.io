@@ -9,27 +9,68 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+Download the CV via [this link](/files/Resume_QingxuanChen.pdf)
+
 Education
 ======
 * MSc in Informatics, University of Zurich, 2023 - 2025 (expected)
 * BSc in Statistics, The Chinese Univerisity of Hong Kong, Shenzhen, 2019 - 2023
 
+
+
 Work experience
 ======
-### Machine Learning Engineering Internship @ CocoRobo Ltd.
+### Machine Learning Engineering Internship 
+
+***CocoRobo Ltd.*** 
+
 **2023. 06 - 2023.08**
 
   * Built up a customized chat-bot for online education platform used by 20+ schools using Langchain and accomplished a pipeline from indetifying question to responding question.
   * Significantly improved response-time of the chat-bot by 30% by applying Langchain Agent and integrating GPT-3.5 API.
   * Enhanced the robustness of the chat-bot by 50% by doubled the variety of files that could be processed by introducing the vector database and prompt engineering.
 
-### Research Assistant @ TsingHua Berkeley Shenzhen Institute
+
+
+### Research Assistant
+
+***TsingHua Berkeley Shenzhen Institute***
+
 **2021. 12 - 2022.03**
 
   * Accomplished a baseline of correction and reconstruction of MRI 3D image data.
   * Tested a new MRI prepossessing baseline by reducing the segmentation error for around 5%.
   * Deploy U-Net architecture for MRI data segmentation and reconstruction via Pytorch. Successfully run the whole pipeline and received available result in real-world application.
-  
+
+
+
+# Project experience
+
+### 3D Scene Understanding
+
+***semester project at ETH Zurich***
+
+**2024. 02 - 2024.07**
+
+- We adapt existing Visual-Language Model (VLM) methodologies to analyze city-scale scenes, focusing on detecting urban characteristics.
+- The building segment task attains an AUC score of 0.927 in specific scene, which is better than existing pipeline (0.875 AUC).
+- Our framework indicates that VLMs have the potential to solve urban classification and localization tasks, especially good understanding of some abstract phenomena.
+
+
+
+### Movie Chat-bot Project 
+
+***course project at University of Zurich***
+
+**2023. 10 – 2023. 12**
+
+- Build up a full-stack chat-bot from scratch to answer questions provided by human user and offer recom- mendation given user’s preference from Wikidata’s movie database.
+- Find the answers and generate human-like response by a mixed mode with SPARQL query, crowd-source research and BERT model. Handle irregular user input by Spacy during entity and relation extraction. Deploying the chat-bot to website by Speakeasy API.
+
+
+
 Skills
 ======
 * Programming:
@@ -39,4 +80,4 @@ Skills
 * Office:
   * Microsoft Office (World, Excel, PowerPoint); LaTeX; Markdown
 * Language:
-  * Chinese (Native); English (Work Proficiency - IELTS 7.0)
+  * Chinese (Native); English (Work Proficiency - IELTS 7.0); German (Elementary)
