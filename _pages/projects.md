@@ -17,7 +17,7 @@ _semester project at ETH Zurich, advisor: Francis Engelmann_
 
 We adapt existing 3D scene undertanding models to analyze city-scale datasets, focusing on detecting urban characteristics such as population density, building age, crime rate, and noise pollution.
 
-[Report](/files/OpenCity_Final_Report.pdf)
+[Report](/files/OpenCity_Final_Report.pdf), [Website/Code](https://opencity3d.github.io/)
 
 
 
